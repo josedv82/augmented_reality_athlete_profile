@@ -5,6 +5,6 @@ Simple proof of concept app combining image recognition via ARkit and a swiftUI 
 
 # Code
 
-![SwiftUI View](https://github.com/josedv82/augmented_reality_athlete_profile/blob/master/SwiftUIViewARCardView.swift)
+[SwiftUI View](https://github.com/josedv82/augmented_reality_athlete_profile/blob/master/SwiftUIViewARCardView.swift)
 
-![ViewController]()
+[ViewController](https://github.com/josedv82/augmented_reality_athlete_profile/blob/master/ViewController.swift)
