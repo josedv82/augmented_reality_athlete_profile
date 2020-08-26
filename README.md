@@ -13,7 +13,7 @@ Simple proof of concept app combining image recognition via ARkit and a swiftUI 
 
 # Future Work
 
-* Similar process with 3d objects and face recognition.
+* Similar process with multiple images, 3d objects and face recognition.
 
 # Acknowledgement
 
