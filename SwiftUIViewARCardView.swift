@@ -3,7 +3,7 @@
 //  SwiftUIView
 //
 //  Created by Jose Fernandez del Valle on 8/24/20.
-//  Copyright © 2020 me.fernandez.jose. All rights reserved.
+//  Copyright © 2020 All rights reserved.
 //
 
 import SwiftUI
