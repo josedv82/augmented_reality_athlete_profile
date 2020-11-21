@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.com/josedv82/augmented_reality_athlete_profile.svg)](http://hits.dwyl.com/josedv82/augmented_reality_athlete_profile)
 
 # Athlete Physical Dashboard via Augmented Reality
 Simple proof of concept app combining image recognition via ARkit and a swiftUI view to display athlete metrics. The goal is to recognize an image in the real world and overlay a dashboard (in this case, an athlete profile card) specific to that image.
